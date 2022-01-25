@@ -19,6 +19,8 @@ npm start
 
 - [ ] # Update Design (StyledComponent Preferable)
 - [ ] # Add Pages to sperate out the functionality
+- [ ] # check if the data is link or not (Add IFrames for the links)
+- [ ] # Define the data on the basis of output from reader
 
 ## A branch proof app [take care of the branches]
 
