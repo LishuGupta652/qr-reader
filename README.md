@@ -1,5 +1,11 @@
 # qr reader
 
+## Prerequisites
+
+-- npm
+-- nodejs
+-- reactjs
+
 ## installation
 
 ```
@@ -15,6 +21,9 @@ npm start
 ```
 git add . && git commit -m "terminal" && git push origin main
 ```
+
+[Demo] (https://qr-reader.lishu.ml/)
+[repository] (https://github.com/LishuGupta652/qr-reader)
 
 ## author
 
