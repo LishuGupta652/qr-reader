@@ -16,9 +16,6 @@ npm start
 git add . && git commit -m "terminal" && git push origin main
 ```
 
-[web](https://react.lishu.ml/)
-[repo](https://github.com/LishuGupta652/react)
-
 ## author
 
 lishugupta652
