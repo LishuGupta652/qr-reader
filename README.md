@@ -17,8 +17,8 @@ npm start
 
 ## Upcomming Updates
 
-[ ]: # Update Design (StyledComponent Preferable)
-[ ]: # Add Pages to sperate out the functionality
+- [ ]: # Update Design (StyledComponent Preferable)
+- [ ]: # Add Pages to sperate out the functionality
 
 ## A branch proof app [take care of the branches]
 
