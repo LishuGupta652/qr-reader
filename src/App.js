@@ -1,10 +1,10 @@
 import "./App.css";
-import { QR } from "./component/qr";
+import { QRScaner } from "./component/qrScan";
 
 function App() {
   return (
     <div className="App">
-      <QR />
+      <QRScaner />
     </div>
   );
 }
